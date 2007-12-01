@@ -1,1 +1,2 @@
-my $what = "@(#)tran.dta	1.1\t[07/12/01]";
+my $what = "@(#)tran.dta	1.2\t[07/12/01]";
+my $id = "1.2";
