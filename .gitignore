@@ -1,0 +1,9 @@
+SCCS
+core
+old
+save
+*.log
+*.out
+*.sv
+*.t[gb]z
+*.zip
